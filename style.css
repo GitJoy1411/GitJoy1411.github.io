@@ -7,16 +7,16 @@ body {
 
 p {
     color: white;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 h1 {
     color: white;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 button {
-    padding: 15px 35px; /* Aumenta il padding per rendere il pulsante più grande */
+    padding: 15px 30px; /* Aumenta il padding per rendere il pulsante più grande */
     background-color: #4CAF50;
     color: white;
     border: none;
