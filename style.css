@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: white;
 }
 
 button {
@@ -16,7 +16,7 @@ button {
     border: none;
     cursor: pointer;
     margin: 10px;
-    font-size: 20px; /* Aumenta la dimensione del font */
+    font-size: 25px; /* Aumenta la dimensione del font */
 }
 
 #risultato {
