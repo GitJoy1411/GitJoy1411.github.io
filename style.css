@@ -3,12 +3,20 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+}
+
+p {
+    color: white;
 	font-size: 20px;
 }
 
+h1 {
+    color: white;
+	font-size: 30px;
+}
 
 button {
-    padding: 15px 30px; /* Aumenta il padding per rendere il pulsante più grande */
+    padding: 15px 25px; /* Aumenta il padding per rendere il pulsante più grande */
     background-color: #4CAF50;
     color: white;
     border: none;
