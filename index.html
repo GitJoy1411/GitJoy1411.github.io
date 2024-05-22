@@ -1,19 +1,16 @@
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>Cane goloso</title>
-		<link href="stili.css" rel="stylesheet">
-	</head>
-	<body>
-		<h1 class="cioccolato">GOGOGOGOGO</h1>
-		<hr/>
-		<p>sei un indiano</p>
-		<p>meglio che un napoletano</p>
-		<img class="caneimg" src="gatto.jpg" />
-		<ol>
-			<li>miaoscolo<li/>
-			<li>missing<li/>
-			<input type='text'>
-			<a href= "https://www.w3schools.com/html/default.asp">Guida html css
-			</a>  
-	</body>
+<head>
+    <title>Indovina il Numero</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1>Indovina il Numero</h1>
+    <p>Inserisci un numero tra 1 e 100:</p>
+    <input type="number" id="guess">
+    <button onclick="controllaIndovinello()">Indovina</button>
+    <p id="risultato"></p>
+
+    <script src="script.js"></script>
+</body>
 </html>
